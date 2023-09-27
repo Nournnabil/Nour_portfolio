@@ -19,3 +19,5 @@ Data Science Portfolio
 - This data science project involved building a recommendation system to predict products that align with individual customer preferences. By analyzing customer purchase history, browsing behavior, and demographic information, our model suggests personalized product recommendations and Enhancing the overall customer shopping experience.
 
 ![](https://github.com/Nournnabil/Nour_portfolio/blob/main/images/models_confMatrix.png?raw=true) 
+
+theme: Architect

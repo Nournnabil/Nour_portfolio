@@ -20,4 +20,4 @@ Data Science Portfolio
 
 ![](https://github.com/Nournnabil/Nour_portfolio/blob/main/images/models_confMatrix.png?raw=true) 
 
-theme: minima
+

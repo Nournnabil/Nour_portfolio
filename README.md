@@ -12,6 +12,7 @@ Data Science Portfolio
 - Our data science project focused on forecasting salaries for various roles in the Data Science field for the year 2023. Using machine learning algorithms, we generated salary predictions for roles such as data scientists, data engineers, and machine learning engineers, providing valuable insights for both job seekers and employers.
 
 ![](https://github.com/Nournnabil/Nour_portfolio/blob/main/images/corr_matx_salaries.png?raw=true)
+![](https://github.com/Nournnabil/Nour_portfolio/blob/main/images/distribution_hist.png?raw=true)
 
 # [Project 3: Recommendation Project](https://github.com/Nournnabil/Projects/blob/main/productRecomm.ipynb)
 

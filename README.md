@@ -1,7 +1,7 @@
 # Nour_portfolio
 Data Science Portfolio
 
-# Project 1: Customer Churn Prediction Project 
+# [Project 1: Customer Churn Prediction Project](https://github.com/Nournnabil/Projects/blob/main/Cust_Churn.ipynb) 
 
 - In this project, we leveraged historical customer data to develop a predictive model for customer churn. By analyzing factors such as customer behavior, usage patterns, and demographics, our model accurately identify customers at risk of churning, which may help businesses to implement targeted retention strategies and reduce churn rates.
 
